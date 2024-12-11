@@ -23,7 +23,6 @@ This is my example.
 
     Step 3: Right click your photo and under  the set as drop-down menu, select background.
 
-![Screenshot](Screenshot 2024-12-11 165412.png)
 
 ![Screenshot 2024-12-11 165412](https://github.com/user-attachments/assets/8c987a66-85df-4f6d-baba-06b37b6463ef)
 
